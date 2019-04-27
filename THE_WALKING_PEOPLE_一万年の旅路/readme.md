@@ -3,7 +3,7 @@
 
 ## 一族の旅の道のり
 
-![旅路マップ](https://raw.githubusercontent.com/kawakawa/books/master/THE_WALKING_PEOPLE_%E4%B8%80%E4%B8%87%E5%B9%B4%E3%81%AE%E6%97%85%E8%B7%AF/map.jpg)
+![旅路マップ](map.jpg)
 
 
 
